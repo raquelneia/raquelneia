@@ -1,7 +1,5 @@
 - 🙋‍♀️ Hi, I’m Raquel Neia @raquelneia
 
-- 🏳️‍🌈 She/Her
-
 - 🇧🇷  Biomedicine undergraduate student at Universidade Federal Fluminense (UFF) from Rio de Janeiro, Brazil 
 
 - 🧬🔬 I’m interest in Bioinformatics and Data Science applied to Genomics
